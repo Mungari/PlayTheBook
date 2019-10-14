@@ -1,0 +1,5 @@
+---
+- name: let's do stuff
+  hosts: winzozz
+  roles:
+    - EsercizioWindows
